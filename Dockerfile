@@ -8,4 +8,4 @@ RUN apt-get update && apt-get -y install mesos
 
 EXPOSE 5050
 
-ENTRYPOINT /usr/local/sbin/mesos-master
+ENTRYPOINT /usr/sbin/mesos-master
