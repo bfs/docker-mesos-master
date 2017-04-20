@@ -1,4 +1,4 @@
-FROM boritzio/docker-mesosphere-base 
+FROM boritzio/docker-mesosphere-base:v1.1.0
 
 EXPOSE 5050
 
